@@ -6,55 +6,49 @@
 --------------------------------------
 00:00:00      Introduction to Java Course
 00:05:04      Java Development Kit setup
-00:13:21        First code in java 
-00:24:35       How Java Works
-00:36:34       Variables in java
-00:48:11        Data types in java
-01:00:28       Literal
-01:04:49       Type conversion
-01:17:20        Assignment Operators
-01:27:32        Relational Operators 
-01:35:35        Logical Operators
-Bitwise operters
-01:46:47        If Else
-01:59:45        If Else if
+00:13:21      First code in java 
+00:24:35      How Java Works
+00:36:34      Variables in java
+00:48:11      Data types in java
+01:00:28      Literal
+01:04:49      Type conversion
+01:17:20      Assignment Operators
+01:27:32      Relational Operators 
+01:35:35      Logical Operators  Bitwise operters
+01:46:47      If Else
+01:59:45      If Else if
+02:05:18	  ternary
+02:09:51      Switch Statement
+02:17:50 	  Need For Loop
+02:21:12	  While Loop
+02:33:35 	  Do While Loop
+02:36:48 	  For Loop
+02:50:06 	  Which Loop To Use
+02:51:48	  Class And Object Theory
+02:57:30 	  Class and Object Practical
+03:13:03	  JDK JRE JVM
+03:18:22	  Methods
+03:29:44 	  Method Overloading
+03:35:41      Stack And Heap
+03:48:12	  Need of an Array
+03:52:01	  Creation of Array
+03:59:28 	  Multi Dimensional Array
+04:12:30	  Jagged and 3D Array
+04:18:08 	  Drawbacks of Array
+04:20:54 	  Array of Objects
+04:29:42	  Enhanced for loop
+04:35:07 	  What is String
+04:42:24 	  Mutable vs Immutable string
+04:48:43 	  StringBuffer and StringBuilder
+04:54:23 	  static variable
+05:01:26      static block
+05:08:43      static method
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++DONE++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-02:05:18 ternary
-02:09:51 Switch Statement
-
-02:17:50 Need For Loop
-02:21:12 While Loop
-02:33:35 Do While Loop
-02:36:48 For Loop
-02:50:06 Which Loop To Use
-
-02:51:48 Class And Object Theory
-02:57:30 Class and Object Practical
-03:13:03 JDK JRE JVM
-
-03:18:22 Methods
-03:29:44 Method Overloading
-
-03:35:41 Stack And Heap
-
-03:48:12 Need of an Array
-03:52:01 Creation of Array
-03:59:28 Multi Dimensional Array
-04:12:30 Jagged and 3D Array
-04:18:08 Drawbacks of Array
-04:20:54 Array of Objects
-04:29:42 Enhanced for loop
-
-++++++++++++++++++++++++++++++DONE 
-
-04:35:07 What is String
-04:42:24 Mutable vs Immutable string
-04:48:43 StringBuffer and StringBuilder
-
-04:54:23 static variable
-05:01:26 static block
-05:08:43 static method
 05:13:25 Encapsulation
 05:25:04 Getters and setters
 05:27:55 this keyword
