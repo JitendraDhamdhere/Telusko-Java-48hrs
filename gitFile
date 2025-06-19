@@ -1,0 +1,21 @@
+# 1. Stage the new or modified file(s)
+git add MyClass.java
+
+# (OR, to stage ALL changes including new, modified, and deleted files)
+git add -A
+
+# 2. Commit your changes with a helpful message
+git commit -m "Add MyClass.java for lesson X"
+
+# 3. Push the commit to GitHub
+git push origin main
+
+
+
+git add *.java
+git commit -m "Add inheritance and polymorphism examples"
+git push origin main
+
+
+
+git status
