@@ -10,7 +10,7 @@ class Mobile {
         System.out.println(brand + " : " + name + " : " + price);
     }
 
-    public void show1(Mobile m2) {
+    public static void show1(Mobile m2) {
         System.err.println("In Static void show :  ");
         System.out.println(m2.brand + " : " + m2.name + " : " + m2.price);
 
