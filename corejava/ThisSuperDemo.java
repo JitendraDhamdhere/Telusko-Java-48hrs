@@ -1,3 +1,4 @@
+package corejava;
 
 class A extends Object {  //every class in java always extends Object Class
 

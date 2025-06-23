@@ -1,3 +1,4 @@
+package corejava;
 
 class Man {
 
