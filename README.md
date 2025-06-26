@@ -1,6 +1,4 @@
 #Study JAVA FULL COURSE
-
-
 --------------------------------------
 00:00:00 - Core Java
 --------------------------------------
@@ -43,90 +41,94 @@
 04:54:23 	  static variable
 05:01:26      static block
 05:08:43      static method
-05:13:25 Encapsulation
-05:25:04 Getters and setters
-05:27:55 this keyword
-05:37:36 constructor
-05:44:35 default vs parameterized constructor
-05:49:36 this and super method
+05:13:25 	  Encapsulation
+05:25:04 	  Getters and setters
+05:27:55 	  this keyword
+05:37:36 	  constructor
+05:44:35 	  default vs parameterized constructor
+05:49:36 	  this and super method  
+06:01:42 	  Naming Convention
+06:06:08 	  Anonymous Object
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++DONE++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-  
-06:01:42 Naming Convention
-06:06:08 Anonymous Object
-06:10:51 Need of Inheritance
-06:17:06 What is Inheritance
-06:25:50 Single and Multilevel inheritance
-06:29:41 Multiple Inheritance
-06:36:16 Method Overriding
-06:44:05 packages
-06:56:20 Access Modifiers
-07:04:42 Polymorphism
-07:08:31 Dynamic Method Dispatch
-07:16:29 Final keyword
-07:22:43 Object Class equals toString hashcode
-07:34:41 Upcasting and Downcasting
-07:41:17 abstract keyword
-07:53:26 Inner class
-07:59:03 Anonymous Inner class
-08:04:11 abstract and anonymous inner class
+
+
+06:10:51 	  Need of Inheritance
+06:17:06 	  What is Inheritance
+06:25:50 	  Single and Multilevel inheritance
+06:29:41 	  Multiple Inheritance
+06:36:16 	  Method Overriding
+06:44:05 	  packages
+06:56:20 	  Access Modifiers
+07:04:42 	  Polymorphism
+07:08:31 	  Dynamic Method Dispatch
+07:16:29 	  Final keyword
+07:22:43 	  Object Class equals toString hashcode
+07:34:41 	  Upcasting and Downcasting
+07:41:17 	  abstract keyword
+07:53:26 	  Inner class
+07:59:03 	  Anonymous Inner class
+08:04:11 	  abstract and anonymous inner class
 
 Interface:
-08:07:22 What is Interface
-08:15:18 More on Interfaces
-08:18:40 Need of Interface
-08:27:11 What is Enum
-08:34:04 enum if and switch
-08:37:59 Enum Class
-08:45:45 What is Annotation
-08:53:14 Functional Interface
-08:56:43 Lambda Expression
-09:02:51 Lambda Expression with return
-09:06:08 Types of Interface
+08:07:22 	  What is Interface
+08:15:18 	  More on Interfaces
+08:18:40 	  Need of Interface
+08:27:11 	  What is Enum
+08:34:04 	  enum if and switch
+08:37:59 	  Enum Class
+08:45:45 	  What is Annotation
+08:53:14 	  Functional Interface
+08:56:43 	  Lambda Expression
+09:02:51 	  Lambda Expression with return
+09:06:08 	  Types of Interface
 
 Exception Handling:
-09:10:41 What is Exception
-09:15:57 Exception Handling using try catch
-09:21:58 try with multiple catch
-09:32:14 Exception Hierarchy
-09:36:30 Exception throw keyword
-09:42:05 Custom exception
-09:45:35 Ducking Exception using throws
-09:55:29 User Input using BufferedReader and Scanner
-10:07:17 try with resources
+09:10:41 	  What is Exception
+09:15:57 	  Exception Handling using try catch
+09:21:58 	  try with multiple catch
+09:32:14 	  Exception Hierarchy
+09:36:30 	  Exception throw keyword
+09:42:05 	  Custom exception
+09:45:35 	  Ducking Exception using throws
+09:55:29 	  User Input using BufferedReader and Scanner
+10:07:17 	  try with resources
 
 Multithreading:
-10:15:25 Threads
-10:20:37 Multiple Threads
-10:31:58 Thread Priority and Sleep
-10:39:20 Runnable vs Thread
-10:47:45 Race Condition
-11:00:15 Thread states
+10:15:25 	  Threads
+10:20:37 	  Multiple Threads
+10:31:58 	  Thread Priority and Sleep
+10:39:20 	  Runnable vs Thread
+10:47:45 	  Race Condition
+11:00:15 	  Thread states
 
 Collections:
-11:03:45 Collection API
-11:08:30 ArrayList
-11:20:23 Set
-11:27:30 Map
-11:37:32 Comparator vs Comparable
+11:03:45 	  Collection API
+11:08:30 	  ArrayList
+11:20:23 	  Set
+11:27:30 	  Map
+11:37:32 	  Comparator vs Comparable
 
 Advanced Java:
-11:53:15 Need of Stream API
-12:00:12 forEach Method
-12:05:01 Stream API
-12:14:09 Map Filter Reduce Sorted
---------------------------------------
-13:13:08 - JUnit
---------------------------------------
-16:04:39 - DSA
---------------------------------------
-16:04:42 DSA Intro
+11:53:15 	  Need of Stream API
+12:00:12 	  forEach Method
+12:05:01 	  Stream API
+12:14:09 	  Map Filter Reduce Sorted
 
-16:11:50 Abstract Data Type
-16:19:01 Arrays
-16:26:53 Time Complexity
+
+--------------------------------------
+13:13:08 - 	  JUnit
+--------------------------------------
+16:04:39 - 	  DSA
+--------------------------------------
+
+16:04:42 	  DSA Intro
+
+16:11:50 	  Abstract Data Type
+16:19:01 	  Arrays
+16:26:53 	  Time Complexity
 
 Searching:
 
